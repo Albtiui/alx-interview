@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#btiui
+
 """ Contains makeChange function"""
 
 
